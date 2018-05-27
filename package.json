@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://zhaoyanxie@github.com/zhaoyanxie/fullstack-todo.git",
+  "author": "zhaoyanXie <u076745e@alumni.nus.edu.sg>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2",
+    "nodemon": "^1.17.5"
+  }
+}
